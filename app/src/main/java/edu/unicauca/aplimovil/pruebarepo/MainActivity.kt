@@ -38,6 +38,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     PruebaRepoTheme {
-        Greeting("Android")
+        Greeting("Hola Project")
     }
 }
